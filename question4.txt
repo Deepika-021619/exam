@@ -1,0 +1,7 @@
+Weight (kg)	Height (cm)	Gender
+60	170	Male
+55	160	Female
+70	180	Male
+50	155	Female
+65	175	Male
+48	150	Female

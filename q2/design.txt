@@ -1,0 +1,7 @@
+Sample	Group
+control1	control
+control2	control
+control3	control
+test1	test
+test2	test
+test3	test
